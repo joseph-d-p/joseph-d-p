@@ -12,11 +12,6 @@
 
 🤝 I’m looking to collaborate on Intel OpenVINO and OpenCV projects using Raspberry Pi
 
-### Contact
-
-✉️: josephandrewdelapena@gmail.com
-
-🔗: https://stackoverflow.com/users/8012206/joseph-d
 
 <!---
 joseph-d-p/joseph-d-p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
